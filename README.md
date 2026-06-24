@@ -1312,27 +1312,3 @@ Need to find something in sorted data?
 **Koneru Lakshmaiah Education Foundation, Hyderabad**
 
 ---
-
-# 📞 Quick Reference
-
-| Question | Answer | CO |
-|----------|--------|-----|
-| How to search restaurants fast? | AVL Tree | 1 |
-| How to find dishes in price range? | B+ Tree | 2 |
-| When are peak orders? | Segment Tree | 2 |
-| Is delivery zone reachable? | DFS | 3 |
-| What's nearest zone? | BFS | 3 |
-| Build optimal road network? | Prim's MST | 3 |
-| Fastest route A→B? | Dijkstra | 4 |
-| Route with discounts? | Bellman-Ford | 4 |
-| All routes precomputed? | Floyd-Warshall | 4 |
-| Sort priorities? | Heap Sort | 5 |
-| Group by rating? | Counting Sort | 5 |
-| Sort order IDs? | Radix Sort | 5 |
-| Maximize revenue? | Knapsack | 6 |
-| Common preferences? | LCS | 6 |
-| Optimize computation? | Matrix Chain | 6 |
-
----
-
-**Happy Learning! 🚀**
